@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-20T05:13:28Z" name="Suite" finished-at="2023-06-20T05:14:07Z" duration-ms="39185">
+    <groups>
+    </groups>
+    <test started-at="2023-06-20T05:13:28Z" name="Microsoft Edge Test" finished-at="2023-06-20T05:14:02Z" duration-ms="34000">
+      <class name="gridexecution.Testgrid1">
+        <test-method is-config="true" signature="initializeSetup(java.lang.String)[pri:0, instance:gridexecution.Testgrid1@5c669da8]" started-at="2023-06-20T05:13:28Z" name="initializeSetup" finished-at="2023-06-20T05:13:36Z" duration-ms="8759" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6666]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeSetup -->
+        <test-method signature="test1()[pri:0, instance:gridexecution.Testgrid1@5c669da8]" started-at="2023-06-20T05:13:36Z" name="test1" finished-at="2023-06-20T05:14:02Z" duration-ms="25206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- gridexecution.Testgrid1 -->
+    </test> <!-- Microsoft Edge Test -->
+    <test started-at="2023-06-20T05:13:28Z" name="Chrome Test" finished-at="2023-06-20T05:14:07Z" duration-ms="39185">
+      <class name="gridexecution.Testgrid1">
+        <test-method is-config="true" signature="initializeSetup(java.lang.String)[pri:0, instance:gridexecution.Testgrid1@78a773fd]" started-at="2023-06-20T05:13:28Z" name="initializeSetup" finished-at="2023-06-20T05:13:37Z" duration-ms="9573" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5555]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeSetup -->
+        <test-method signature="test1()[pri:0, instance:gridexecution.Testgrid1@78a773fd]" started-at="2023-06-20T05:13:37Z" name="test1" finished-at="2023-06-20T05:14:07Z" duration-ms="29592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- gridexecution.Testgrid1 -->
+    </test> <!-- Chrome Test -->
+  </suite> <!-- Suite -->
+</testng-results>
