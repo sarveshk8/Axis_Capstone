@@ -5,12 +5,12 @@
 	  <parameter name="Port" value="5555"/>
     <classes>
       
-      <class name="gridexecution.Testgrid1"/>
-      <class name="gridexecution.Testgrid3"/>
-      <class name="gridexecution.Testgrid2"/>
-      <class name="gridexecution.Testgrid5"/>
-      <class name="gridexecution.Testgrid4"/>
-      <class name="gridexecution.Testgrid6"/>
+      <class name="gridexecution.NewUserSignup"/>
+      <class name="gridexecution.LoginInvalidCredentials"/>
+      <class name="gridexecution.LoginValidCredential"/>
+      <class name="gridexecution.SearchFunctionality"/>
+      <class name="gridexecution.RemoveProdCart"/>
+      <class name="gridexecution.ReviewProduct"/>
    
     </classes>
   </test> <!-- Test -->
@@ -19,12 +19,12 @@
 	  <parameter name="Port" value="6666"/>
     <classes>
       
-      <class name="gridexecution.Testgrid1"/>
-      <class name="gridexecution.Testgrid3"/>
-      <class name="gridexecution.Testgrid2"/>
-      <class name="gridexecution.Testgrid5"/>
-      <class name="gridexecution.Testgrid4"/>
-      <class name="gridexecution.Testgrid6"/>
+      <class name="gridexecution.NewUserSignup"/>
+      <class name="gridexecution.LoginInvalidCredentials"/>
+      <class name="gridexecution.LoginValidCredential"/>
+      <class name="gridexecution.SearchFunctionality"/>
+      <class name="gridexecution.RemoveProdCart"/>
+      <class name="gridexecution.ReviewProduct"/>
    
     </classes>
   </test>
